@@ -1,4 +1,4 @@
-# kotlinbasics
+
 # 📘 Introduction to Kotlin
 
 ## ✅ What is Kotlin?
